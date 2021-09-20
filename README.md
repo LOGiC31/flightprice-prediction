@@ -5,10 +5,14 @@
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
 
-## Motivation
-What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
+## Input
 
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+1. Departure and Arrival Date
+2. Source and Destination
+3. Stoppage Type
+4. Airline Type
+
+[![](https://imgur.com/a/B2WY9ZN)]
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
