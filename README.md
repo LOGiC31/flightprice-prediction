@@ -22,6 +22,8 @@ This is a Flask web app which predicts fare of Flight ticket.
 ## Algorithm Used
 
 From multiple linear regression and Randomforrest turns out to be better. So the app basically works on **Random Forrest**.
+## FlowChart
+![](https://github.com/LOGiC31/flightprice-prediction/blob/main/flowchart.png)
 ## Directory Tree 
 ```
 ├── static 
