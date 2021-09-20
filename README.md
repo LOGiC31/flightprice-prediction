@@ -19,7 +19,9 @@ This is a Flask web app which predicts fare of Flight ticket.
 
 **Predicted flight fare for the provided inputs.**
 ![](https://i.imgur.com/LooUkAc.jpg)
+## Algorithm Used
 
+From multiple linear regression and Randomforrest turns out to be better. So the app basically works on **Random Forrest**.
 ## Directory Tree 
 ```
 ├── static 
@@ -44,6 +46,7 @@ This is a Flask web app which predicts fare of Flight ticket.
 
 ## Future Scope
 
-* Use multiple Algorithms
+* Use multiple Algorithms - More complex neural networks can be used.
 * Optimize Flask app.py
+* More specifications can be included.
 * Front-End 
