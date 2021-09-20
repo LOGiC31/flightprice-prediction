@@ -12,11 +12,12 @@ This is a Flask web app which predicts fare of Flight ticket.
 3. Stoppage Type
 4. Airline Type
 
-## Output
-
-#Predicted flight fare for the provided inputs.
 
 ![](https://i.imgur.com/ubOymxL.jpg)
+
+## Output
+
+**Predicted flight fare for the provided inputs.**
 ![](https://i.imgur.com/LooUkAc.jpg)
 
 ## Directory Tree 
