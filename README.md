@@ -16,6 +16,7 @@ This is a Flask web app which predicts fare of Flight ticket.
 
 Predicted flight fare for the provided inputs.
 
+![](https://i.imgur.com/ubOymxL.jpg)
 ![](https://i.imgur.com/LooUkAc.jpg)
 
 ## Directory Tree 
