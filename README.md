@@ -12,7 +12,7 @@ This is a Flask web app which predicts fare of Flight ticket.
 3. Stoppage Type
 4. Airline Type
 
-[![](https://imgur.com/a/B2WY9ZN)]
+![](https://imgur.com/a/B2WY9ZN)
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
